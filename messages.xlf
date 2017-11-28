@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file source-language="en" datatype="plaintext" original="ng2.template">
+    <body>
+      <trans-unit id="home.header" datatype="html">
+        <source>Introducing First Regional Registries Portal</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app\home\home.component.ts</context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+        <note priority="1" from="description">An introduction header for the portal</note>
+        <note priority="1" from="meaning">Site Heading</note>
+      </trans-unit>
+      <trans-unit id="home.subtitle" datatype="html">
+        <source>Data servicer that foster cross-border cooperation and increase transparency</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app\home\home.component.ts</context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="home.searchplaceholder" datatype="html">
+        <source>Search</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app\home\home.component.ts</context>
+          <context context-type="linenumber">16</context>
+        </context-group>
+        <note priority="1" from="description">search placeholder</note>
+      </trans-unit>
+      <trans-unit id="srchNameC" datatype="html">
+        <source>Name</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app\home\home.component.ts</context>
+          <context context-type="linenumber">22</context>
+        </context-group>
+        <note priority="1" from="description">company search results table headeings</note>
+      </trans-unit>
+      <trans-unit id="srchCityC" datatype="html">
+        <source>City</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app\home\home.component.ts</context>
+          <context context-type="linenumber">23</context>
+        </context-group>
+        <note priority="1" from="description">company search results table headeings</note>
+      </trans-unit>
+      <trans-unit id="srchCountryC" datatype="html">
+        <source>Country</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app\home\home.component.ts</context>
+          <context context-type="linenumber">24</context>
+        </context-group>
+        <note priority="1" from="description">company search results table headeings</note>
+      </trans-unit>
+      <trans-unit id="home.searchfor1" datatype="html">
+        <source>Search for &apos;<x id="INTERPOLATION" equiv-text="{{ txtSearch.value }}"/>&apos;</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app\home\home.component.ts</context>
+          <context context-type="linenumber">45</context>
+        </context-group>
+        <note priority="1" from="description">Search for Message</note>
+      </trans-unit>
+      <trans-unit id="home.norez1" datatype="html">
+        <source>No results for &apos;<x id="INTERPOLATION" equiv-text="{{ txtSearch.value }}"/>&apos;</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app\home\home.component.ts</context>
+          <context context-type="linenumber">48</context>
+        </context-group>
+        <note priority="1" from="description">Search no results</note>
+      </trans-unit>
+      <trans-unit id="srchNameP" datatype="html">
+        <source>Name</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app\home\home.component.ts</context>
+          <context context-type="linenumber">57</context>
+        </context-group>
+        <note priority="1" from="description">person search results table headeings</note>
+      </trans-unit>
+      <trans-unit id="srchCityP" datatype="html">
+        <source>City</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app\home\home.component.ts</context>
+          <context context-type="linenumber">58</context>
+        </context-group>
+        <note priority="1" from="description">person search results table headeings</note>
+      </trans-unit>
+      <trans-unit id="srchCountryP" datatype="html">
+        <source>Country</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app\home\home.component.ts</context>
+          <context context-type="linenumber">59</context>
+        </context-group>
+        <note priority="1" from="description">person search results table headeings</note>
+      </trans-unit>
+      <trans-unit id="home.searchfor2" datatype="html">
+        <source>Search for &apos;<x id="INTERPOLATION" equiv-text="{{ txtSearch.value }}"/>&apos;</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app\home\home.component.ts</context>
+          <context context-type="linenumber">69</context>
+        </context-group>
+        <note priority="1" from="description">Search for Message</note>
+      </trans-unit>
+      <trans-unit id="home.norez2" datatype="html">
+        <source>No results for &apos;<x id="INTERPOLATION" equiv-text="{{ txtSearch.value }}"/>&apos;</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app\home\home.component.ts</context>
+          <context context-type="linenumber">72</context>
+        </context-group>
+        <note priority="1" from="description">Search no results</note>
+      </trans-unit>
+      <trans-unit id="home.optCAll" datatype="html">
+        <source>-- All Countries --</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app\home\home.component.ts</context>
+          <context context-type="linenumber">84</context>
+        </context-group>
+        <note priority="1" from="description">Search Option All</note>
+      </trans-unit>
+      <trans-unit id="home.optCMk" datatype="html">
+        <source>Macedonia</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app\home\home.component.ts</context>
+          <context context-type="linenumber">85</context>
+        </context-group>
+        <note priority="1" from="description">Search Option Macedonia</note>
+      </trans-unit>
+      <trans-unit id="home.optCSrb" datatype="html">
+        <source>Serbia</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app\home\home.component.ts</context>
+          <context context-type="linenumber">86</context>
+        </context-group>
+        <note priority="1" from="description">Search Option Serbia</note>
+      </trans-unit>
+      <trans-unit id="home.searchCompany" datatype="html">
+        <source>Search Company</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app\home\home.component.ts</context>
+          <context context-type="linenumber">99</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="home.seachPerson" datatype="html">
+        <source>Search Person</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app\home\home.component.ts</context>
+          <context context-type="linenumber">103</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="home.tour" datatype="html">
+        <source>Take a tour</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app\home\home.component.ts</context>
+          <context context-type="linenumber">110</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="home.seach" datatype="html">
+        <source>Search</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app\home\home.component.ts</context>
+          <context context-type="linenumber">111</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="home.bscMsg1" datatype="html">
+        <source>Choose a business case that matches your needs</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app\home\home.component.ts</context>
+          <context context-type="linenumber">123</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="home.bscMsg2" datatype="html">
+        <source>Select your business case scenario to see all related services.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app\home\home.component.ts</context>
+          <context context-type="linenumber">124</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="home.bscMsg3" datatype="html">
+        <source>Business case scenarios</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app\home\home.component.ts</context>
+          <context context-type="linenumber">133</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="home.bscMsg4" datatype="html">
+        <source>Business case 1</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app\home\home.component.ts</context>
+          <context context-type="linenumber">146</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="home.bscMsg5" datatype="html">
+        <source>Check your partner</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app\home\home.component.ts</context>
+          <context context-type="linenumber">147</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app\home\home.component.ts</context>
+          <context context-type="linenumber">155</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="home.bscMsg6" datatype="html">
+        <source>Find a partner</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app\home\home.component.ts</context>
+          <context context-type="linenumber">156</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="home.bscMsg7" datatype="html">
+        <source>Business case 3</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app\home\home.component.ts</context>
+          <context context-type="linenumber">164</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="home.bscMsg8" datatype="html">
+        <source>Market your product</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app\home\home.component.ts</context>
+          <context context-type="linenumber">165</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="home.latestNews" datatype="html">
+        <source>Re:Public latest news</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app\home\home.component.ts</context>
+          <context context-type="linenumber">176</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="home.msg1" datatype="html">
+        <source>The best company to work for near you</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app\home\home.component.ts</context>
+          <context context-type="linenumber">185</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="home.msg2" datatype="html">
+        <source>Find your way in the corporate world</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app\home\home.component.ts</context>
+          <context context-type="linenumber">191</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="home.msg3" datatype="html">
+        <source>Make faster comparison between two companies</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app\home\home.component.ts</context>
+          <context context-type="linenumber">197</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="home.msg4" datatype="html">
+        <source>Make your business grow better, use the analitics</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app\home\home.component.ts</context>
+          <context context-type="linenumber">203</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
